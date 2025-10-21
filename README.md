@@ -11,6 +11,7 @@ It is deployed live on **Render**.
 ## 📘 About This App
 
 This app provides an easy-to-use API for predicting the presence of heart disease.  
+
 It takes medical input features such as **age**, **cholesterol**, **blood pressure**, etc., and returns whether heart disease is likely (`true` or `false`).
 
 The model was trained using the [Heart Disease Dataset on Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
@@ -190,6 +191,7 @@ The model uses the following features for prediction:
 - **thal**: Thalassemia (1 = normal, 2 = fixed defect, 3 = reversible defect)
 
 ---
+
 
 
 
