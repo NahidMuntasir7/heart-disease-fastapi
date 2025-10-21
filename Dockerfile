@@ -10,8 +10,9 @@ COPY requirements.txt .
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy everything
-COPY . .
+# Copy app and model code
+COPY app/ ./app/
+COPY model/ ./model/
 
 # Expose FastAPI port
 EXPOSE 8000
