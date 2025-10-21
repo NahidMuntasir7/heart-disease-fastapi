@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction API
+# Heart Disease Prediction API
 
 A **Machine Learning + FastAPI + Docker** project that predicts whether a person is likely to have heart disease based on key health parameters.
 
@@ -199,6 +199,7 @@ The model uses the following features for prediction:
 5. Open a Pull Request
 
 ---
+
 
 
 
