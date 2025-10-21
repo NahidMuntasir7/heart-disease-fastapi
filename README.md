@@ -65,7 +65,7 @@ Visit the `/docs` page to test the APIs using Swagger UI:
 
 ## 🧩 Tech Stack
 
-- **Python 3.10+**
+- **Python**
 - **FastAPI** — for the API backend
 - **scikit-learn** — for training the model
 - **joblib** — for saving/loading the trained model
@@ -199,4 +199,5 @@ The model uses the following features for prediction:
 5. Open a Pull Request
 
 ---
+
 
