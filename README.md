@@ -194,12 +194,13 @@ The model uses the following features for prediction:
 ## 🤝 Contributing
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m "Add new feature`)
+2. Create a feature branch (`git checkout -b newfeature`)
+3. Commit your changes (`git commit -m "Add new feature"`)
 4. Push to the branch (`git push origin newfeature`)
 5. Open a Pull Request
 
 ---
+
 
 
 
