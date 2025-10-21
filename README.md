@@ -97,7 +97,7 @@ heart-disease-fastapi/
 │   └── heart_model.joblib   # Trained ML model
 │
 ├── data/
-│   └── heart.csv            # Dataset (not included in Docker image)
+│   └── heart.csv            # Dataset 
 │
 ├── train_model.py           # Script to train and save the model
 ├── requirements.txt         # Dependencies
@@ -199,6 +199,7 @@ The model uses the following features for prediction:
 5. Open a Pull Request
 
 ---
+
 
 
 
