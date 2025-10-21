@@ -190,18 +190,6 @@ The model uses the following features for prediction:
 
 ---
 
-## 🧾 Example Use Cases
-
-This API can be integrated into:
-
-- **Health dashboards** or monitoring systems
-- **Educational ML deployment** projects
-- Any **web application** needing quick heart disease risk predictions
-- **Healthcare applications** for preliminary screening
-- **Research projects** requiring heart disease risk assessment
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -212,25 +200,3 @@ This API can be integrated into:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## ⚠️ Disclaimer
-
-This application is for educational and demonstration purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare providers for medical decisions.
-
----
-
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-- **GitHub**: [@NahidMuntasir7](https://github.com/NahidMuntasir7)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
