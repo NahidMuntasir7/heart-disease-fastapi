@@ -3,6 +3,7 @@
 A **Machine Learning + FastAPI + Docker** project that predicts whether a person is likely to have heart disease based on key health parameters.
 
 This API is built with **FastAPI**, trained using a **Random Forest Classifier**, and containerized with **Docker** for easy deployment.  
+
 It is deployed live on **Render**.
 
 ---
@@ -199,6 +200,7 @@ The model uses the following features for prediction:
 5. Open a Pull Request
 
 ---
+
 
 
 
