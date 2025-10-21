@@ -113,7 +113,7 @@ heart-disease-fastapi/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/heart-disease-fastapi.git
+git clone https://github.com/NahidMuntasir7/heart-disease-fastapi.git
 cd heart-disease-fastapi
 ```
 
@@ -199,6 +199,7 @@ The model uses the following features for prediction:
 5. Open a Pull Request
 
 ---
+
 
 
 
