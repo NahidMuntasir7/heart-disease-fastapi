@@ -6,7 +6,6 @@ This API is built with **FastAPI**, trained using a **Random Forest Classifier**
 
 It is deployed live on **Render**.
 
----
 
 ## 📘 About This App
 
@@ -16,7 +15,6 @@ It takes medical input features such as **age**, **cholesterol**, **blood pressu
 
 The model was trained using the [Heart Disease Dataset on Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 
----
 
 ## 🌍 Live Demo
 
@@ -27,7 +25,6 @@ Visit the `/docs` page to test the APIs using Swagger UI:
 
 👉 [https://heart-disease-fastapi7.onrender.com/docs](https://heart-disease-fastapi7.onrender.com/docs)
 
----
 
 ## ⚙️ API Endpoints
 
@@ -74,7 +71,6 @@ Visit the `/docs` page to test the APIs using Swagger UI:
 - **Docker** - for containerization
 - **Render** - for live cloud deployment
 
----
 
 ## 🧠 How It Works
 
@@ -83,7 +79,6 @@ Visit the `/docs` page to test the APIs using Swagger UI:
 3. FastAPI loads this model and exposes an endpoint (`/predict`) to make predictions.
 4. The app is containerized using Docker and deployed to Render.
 
----
 
 ## 🧰 Project Structure
 
@@ -109,7 +104,6 @@ heart-disease-fastapi/
 └── README.md                # Documentation
 ```
 
----
 
 ## 💻 How to Clone and Run Locally
 
@@ -148,7 +142,6 @@ uvicorn app.main:app --reload
 **Visit:**
 👉 http://127.0.0.1:8000/docs
 
----
 
 ## 🐳 Run with Docker
 
@@ -170,7 +163,6 @@ The app will be available at:
 docker-compose down
 ```
 
----
 
 ## 📊 Model Features
 
@@ -190,7 +182,7 @@ The model uses the following features for prediction:
 - **ca**: Number of major vessels colored by fluoroscopy (0-3)
 - **thal**: Thalassemia (1 = normal, 2 = fixed defect, 3 = reversible defect)
 
----
+
 
 
 
