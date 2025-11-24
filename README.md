@@ -60,7 +60,6 @@ Visit the `/docs` page to test the APIs using Swagger UI:
 }
 ```
 
----
 
 ## 🧩 Tech Stack
 
@@ -181,6 +180,7 @@ The model uses the following features for prediction:
 - **slope**: Slope of the peak exercise ST segment (0-2)
 - **ca**: Number of major vessels colored by fluoroscopy (0-3)
 - **thal**: Thalassemia (1 = normal, 2 = fixed defect, 3 = reversible defect)
+
 
 
 
