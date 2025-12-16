@@ -19,7 +19,6 @@ The model was trained using the [Heart Disease Dataset on Kaggle](https://www.ka
 ## 🌍 Live Demo
 
 ### 🔗 **Render Deployment:**
-👉 [https://heart-disease-fastapi7.onrender.com/](https://heart-disease-fastapi7.onrender.com/)
 
 Visit the `/docs` page to test the APIs using Swagger UI:
 
@@ -180,6 +179,7 @@ The model uses the following features for prediction:
 - **slope**: Slope of the peak exercise ST segment (0-2)
 - **ca**: Number of major vessels colored by fluoroscopy (0-3)
 - **thal**: Thalassemia (1 = normal, 2 = fixed defect, 3 = reversible defect)
+
 
 
 
